@@ -16,3 +16,7 @@ This port was tested and build with:
 3. Go into your cloned repository: `cd /your/path/to/live555-android-port/jni`
 4. Build: `ndk-build APP_PLATFORM=YOUR_TARGET_API` (e.g android-24)
 5. Use the build *.so or *.a libraries.
+
+
+## LICENSE
+The library is GPL and LGPL licensed.
