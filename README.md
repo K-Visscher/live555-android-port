@@ -11,7 +11,7 @@ This port was tested and build with:
 * Android-24
 
 ## Building
-1. Clone this repository: `git clone https://github.com/tvisscher/live555-android-port.git`
+1. Clone this repository: `git clone https://github.com/K-Visscher/live555-android-port.git`
 2. Add the NDK Tools to your PATH: `export PATH=$PATH:/your/path/to/android/sdk/ndk-bundle`
 3. Go into your cloned repository: `cd /your/path/to/live555-android-port/jni`
 4. Build: `ndk-build APP_PLATFORM=YOUR_TARGET_API` (e.g android-24)
